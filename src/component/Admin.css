@@ -1,0 +1,51 @@
+.Input_text{
+width: 250px;
+height: 50px;
+border-radius: 20px;
+padding: 25px 20px;
+margin: 25px 20px;
+}
+.input_container{
+    max-width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+.Submit_btn{
+    width: 150px;
+height: 50px;
+border-radius: 30px;
+background-color: rgba(37, 214, 225, 1);
+float: right;
+margin-right: 6
+
+}
+table, th, td {
+    border:1px solid black;
+  }
+
+  .table-div{
+ 
+  margin-top: 100px;
+ 
+    
+  }
+
+
+  .Ass_project_btn{
+    width:150px;
+    height: 30px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 9px;
+
+
+  }
+  .logout{
+    float: right;
+    font-size: 25px;
+    margin-right: 50px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
